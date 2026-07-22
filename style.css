@@ -1,0 +1,83 @@
+.container {
+    background-color: black;
+display: grid;
+grid-template-columns: auto auto auto auto;
+grid-gap: 10px;
+height: 650px;
+
+
+}
+
+.item{
+    background-color: greenyellow;
+    color: orange;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.item4{
+    background-color: orange;
+    color:purple;
+    
+
+}
+
+.item1{
+    background-color: red;
+    color:white;
+
+}
+
+.item2{
+    background-color: orange;
+    color:purple;
+}
+
+.item3{
+    background-color: red;
+    color:white;
+}
+
+.item5{
+    background-color: purple;
+    color: orange;
+}
+
+.item6{
+    background-color: white;
+    color: red;
+}
+
+.item7{
+    background-color: purple;
+    color: orange;
+}
+
+.item8{
+    background-color: white;
+    color: red;
+}
+
+.item9{
+    background-color: orange;
+    color: purple;
+}
+
+.item10{
+    background-color: red;
+    color: white;
+}
+
+.item11{
+    background-color: orange;
+    color: purple;
+}
+
+.item12{
+    background-color: red;
+    color: white;
+}
+
