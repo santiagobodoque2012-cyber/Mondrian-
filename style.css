@@ -49,6 +49,8 @@ height: 650px;
 .item6{
     background-color: white;
     color: red;
+    grid-row-start:3;
+    grid-row-end:5;
 }
 
 .item7{
