@@ -21,65 +21,119 @@ height: 650px;
 .item4{
     background-color: orange;
     color:purple;
-    
-
+    font-size: 60px;
+    padding: 20px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item1{
     background-color: red;
     color:white;
+     font-size: 60px;
+    padding: 20px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
 
 }
 
 .item2{
     background-color: orange;
     color:purple;
+     font-size: 60px;
+    padding: 20px;
+    text-align: center;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item3{
     background-color: red;
     color:white;
+     font-size: 60px;
+    padding: 20px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item5{
     background-color: purple;
     color: orange;
+     font-size: 60px;
+    padding: 20px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item6{
     background-color: white;
     color: red;
-    grid-row-start: 1;
-    grid-row-end: 3;
-} 
+    grid-row-start: 3;
+    grid-row-end: 5;
+     font-size: 60px;
+    padding: 20px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
 
 .item7{
     background-color: purple;
     color: orange;
+     font-size: 60px;
+    padding: 20px;
+    text-align: center;
+    grid-row-start: 2;
+    grid-row-end: 5;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item8{
     background-color: white;
     color: red;
+     font-size: 60px;
+    padding: 28px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item9{
     background-color: orange;
     color: purple;
+     font-size: 30px;
+    padding: 70px;
+    text-align: center;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item10{
     background-color: red;
     color: white;
+     font-size: 60px;
+    padding: 20px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item11{
     background-color: orange;
     color: purple;
+     font-size: 80px;
+    padding: 30px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .item12{
     background-color: red;
     color: white;
+     font-size: 70px;
+    padding: 56px;
+    text-align: center;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    font-family:'Times New Roman', Times, serif;
 }
 
